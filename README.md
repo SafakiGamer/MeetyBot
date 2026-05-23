@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MertTunaGuralp/MeetyBot/main/assets/meetybot-logo.svg" width="110" alt="MeetyBot Logo">
+  <img src="https://raw.githubusercontent.com/MertTunaGuralp/MeetyBot/main/assets/meetybot-logo.png" width="110" alt="MeetyBot Logo">
 </p>
 
 <h1 align="center">MeetyBot</h1>
