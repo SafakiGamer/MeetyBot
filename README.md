@@ -86,7 +86,7 @@ Başarıyla başlatınca terminalde şuna benzer bir çıktı görürsünüz:
 
 - Tüm kullanıcı, envanter ve oyun verileri `database.sqlite` dosyasında güvende tutulur.
 - Veritabanı oluşturmak için ekstra bir işlem yapmanıza gerek yoktur, bot ilk çalıştırmada otomatik oluşturur.
--- database denenmedi hata var ise geri bildirim yapınız
+- '''database denenmedi hata var ise geri bildirim yapınız
 ---
 
 ## 🧩 Önemli Bağımlılıklar
