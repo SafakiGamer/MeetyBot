@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MertTunaGuralp/MeetyBot/main/assets/meetybot-logo.png" width="110" alt="MeetyBot Logo">
+  <img src="https://raw.githubusercontent.com/SafakiGamer/MeetyBot/main/assets/meetybot-logo.png" width="110" alt="MeetyBot Logo">
 </p>
 
 <h1 align="center">MeetyBot</h1>
@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/MertTunaGuralp/MeetyBot?style=for-the-badge&color=gold">
+  <img src="https://img.shields.io/github/stars/SafakiGamer/MeetyBot?style=for-the-badge&color=gold">
   <img src="https://img.shields.io/badge/platform-Wecordy-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/github/languages/top/MertTunaGuralp/MeetyBot?color=41B883&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/MertTunaGuralp/MeetyBot?color=23d160&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/top/SafakiGamer/MeetyBot?color=41B883&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/SafakiGamer/MeetyBot?color=23d160&style=for-the-badge">
   <img src="https://img.shields.io/badge/developer-SafakiGamer-success?style=for-the-badge">
 </p>
 
@@ -37,7 +37,7 @@ sudo apt install nodejs npm
 ### 2. Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/MertTunaGuralp/MeetyBot.git
+git clone https://github.com/SafakiGamer/MeetyBot.git
 cd MeetyBot
 ```
 
