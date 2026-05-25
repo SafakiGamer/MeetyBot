@@ -46,7 +46,7 @@ const levelRoles = {
   10: "⚡ Aktif",
   15: "🔥 Pro",
   20: "👑 Efsane",
-  30: "💎 Tanrı",
+  30: "💎 Elmas",
   50: "🌌 Ölümsüz"
 }
 
