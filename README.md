@@ -133,3 +133,7 @@ Daha kapsamlı katkı rehberi için `CONTRIBUTING.md` dosyasını inceleyin.
 Bu proje [MIT Lisansı](LICENSE) ile açık kaynaktır.
 
 <p align="center"><b><a href="https://github.com/SafakiGamer">SafakiGamer</a> / MeetyBot • Güçlü Wecordy bot deneyimi için profesyonel çözüm</b></p>
+
+##Development stopped
+
+-Geliştirme durmuştur isteyen alıp geliştirebilir
